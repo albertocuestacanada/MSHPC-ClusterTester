@@ -1,0 +1,10 @@
+HeadNode=chnau801mel0001
+Service=ClusterTester
+JobTemplate=Dev_ClusterTester
+#MinCores=1
+#MaxCores=16
+Priority=1000
+Tasks=100
+TaskTime=60000
+TaskFailureChance=0.0
+TaskTimeDeviation=40000

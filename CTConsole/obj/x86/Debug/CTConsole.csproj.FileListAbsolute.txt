@@ -1,0 +1,6 @@
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\CTConsole\bin\Debug\CTConsole.exe
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\CTConsole\bin\Debug\CTConsole.pdb
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\CTConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\CTConsole\obj\x86\Debug\CTConsole.exe
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\CTConsole\obj\x86\Debug\CTConsole.pdb
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\CTConsole\bin\Debug\CTConsole.exe.config

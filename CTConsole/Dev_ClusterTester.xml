@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobTemplate Name="Dev_ClusterTester" Description="" CreateTime="17/07/2012 1:07:06 AM">
+    <TemplateItem PropertyName="ExpandedPriority" Default="2000" MinVal="0" MaxVal="2000" />
+    <TemplateItem PropertyName="NodeGroups" Default="WorkingNodes" ValueRange="" RequiredValues="WorkingNodes" />
+    <TemplateItem PropertyName="MaxCores" Default="16" MinVal="1" MaxVal="16" />
+</JobTemplate>

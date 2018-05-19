@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ClusterTester.ClusterTesterService" CodeBehind="ClusterTesterService.svc.cs" %>

@@ -1,0 +1,5 @@
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\ClusterTester\bin\ClusterTester.dll
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\ClusterTester\bin\ClusterTester.pdb
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\ClusterTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\ClusterTester\obj\Debug\ClusterTester.dll
+C:\Users\cuestacaadmin\MSHPC\ClusterTester\ClusterTester\obj\Debug\ClusterTester.pdb
